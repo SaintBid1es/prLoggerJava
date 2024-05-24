@@ -1,0 +1,12 @@
+
+
+мая 24, 2024 1:44:32 PM org.example.Main main
+WARNING: null
+мая 24, 2024 3:32:43 PM org.example.Main main
+WARNING: null
+мая 24, 2024 3:32:59 PM org.example.Main main
+WARNING: null
+мая 24, 2024 3:50:42 PM org.example.Main main
+WARNING: java.util.InputMismatchException
+мая 24, 2024 3:57:00 PM org.example.Main main
+WARNING: java.util.InputMismatchException
